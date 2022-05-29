@@ -52,7 +52,7 @@
       </a>
       
   <a href="mailto:frpbotero@gmail.com?" subject="Contato">
-      <img src="https://i.imgur.com/nX4zyYD.png" alt="Gmail" height="20px">
+      <img src="https://i.imgur.com/rpVsyKW.png" alt="Gmail" height="20px">
     </a>
 </p>
 
