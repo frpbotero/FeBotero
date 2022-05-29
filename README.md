@@ -51,7 +51,7 @@
       <img src="https://i.imgur.com/INGYlwb.png" alt="linkedin" height="20px">
       </a>
       
-  <a href="mailto:febotero4@gmail.com?" subject="Contato">
+  <a href="mailto:frpbotero@gmail.com?" subject="Contato">
       <img src="https://i.imgur.com/nX4zyYD.png" alt="Gmail" height="20px">
     </a>
 </p>
