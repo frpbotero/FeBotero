@@ -4,7 +4,7 @@
 <h4>Entusiasta no mundo da programação, tecnologia, automação, projetos e filmes.</h4>
 
 
-<p><img src="https://i.imgur.com/Kd5jJHJ.png" width="20px"> Coodenador Financeiro da CB Comercial</p>
+
 <p><img src="https://i.imgur.com/ng7WemU.png" width="20px"> Cursando Análise e Desenvolvimento de Sistemas </p>
 
 <h3>Hard Skill</h3>
