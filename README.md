@@ -43,9 +43,7 @@
 
 <h3>Social Networks</h3>
 <p aling="center">
-<a href="https://twitter.com/frpbotero" style="text-decoration: none, background:#fff">
-  <img src="https://i.imgur.com/CA1A6bf.png" alt="Twiter" height="20px">
-  </a>
+
   
   <a href="https://www.linkedin.com/in/felipe-botero-561048a3/" >
       <img src="https://i.imgur.com/INGYlwb.png" alt="linkedin" height="20px">
