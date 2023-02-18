@@ -1,7 +1,7 @@
 <h1>Felipe Botero</h1>
 
 
-<h4>Hello, my name is Felipe Botero, I am naturally of Manaus - Amazonas. At the moment I have 34 years old and I have degree in economics, but I'm changing careers.</h4>
+<h4>Olá, meu nome é Felipe Botero, sou natural de Manaus. No momento tenho 34 anos e estou realizando transição de carreira, com foco no front-end.</h4>
 
 
 
