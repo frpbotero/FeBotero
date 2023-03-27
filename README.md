@@ -1,7 +1,17 @@
 <h1>Felipe Botero</h1>
 
 
-<h4>Olá, meu nome é Felipe Botero, sou natural de Manaus. No momento tenho 34 anos e estou realizando transição de carreira com foco no front-end.</h4>
+<h4>Olá, meu nome é Felipe Botero, sou natural de Manaus. Sou desenvolvedor Fullstack com foco em tecnologias web, hoje utilizo em meus projetos:</h4>
+<ul>  
+  <li>React</li>
+  <li>Node</li>
+  <li>Typescript</li>
+  <li>Javascript</li>
+  <li>Mongoose</li>
+  <li>MongoDB</li>
+  
+  
+</ul>
 
 
 
