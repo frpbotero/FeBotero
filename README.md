@@ -56,7 +56,7 @@
 <p aling="center">
 
   
-  <a href="https://www.linkedin.com/in/felipe-botero-561048a3/" >
+  <a href="https://www.linkedin.com/in/felipe-botero-dev/" >
       <img src="https://i.imgur.com/INGYlwb.png" alt="linkedin" height="20px">
       </a>
       
