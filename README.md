@@ -1,7 +1,7 @@
 <h1>Felipe Botero</h1>
 
 
-<h4>Olá, meu nome é Felipe Botero, sou natural de Manaus. Sou desenvolvedor Fullstack com foco em tecnologias web, hoje utilizo em meus projetos:</h4>
+<h4>Olá, meu nome é Felipe Botero, sou natural de Manaus. Sou desenvolvedor Fullstack com foco em tecnologias web, </h4>
 
 <h3>Hard Skill</h3>
 <p>
@@ -38,8 +38,9 @@
 <img src="https://streak-stats.demolab.com?user=FeBotero&theme=transparent&hide_border=true&border_radius=0&date_format=j%2Fn%5B%2FY%5D" />
 </picture>
 </p>
-
+<div align='center'>
 <h3>Social Networks</h3>
+
 <p aling="center">
 
   
@@ -52,4 +53,4 @@
     </a>
 </p>
 
-
+</div>
