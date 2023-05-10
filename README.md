@@ -1,9 +1,11 @@
 <h1>Felipe Botero</h1>
 
-
-<h4>Olá, meu nome é Felipe Botero, sou natural de Manaus. Sou desenvolvedor Fullstack com foco em tecnologias web, </h4>
+<div align='center'>
+<h2>Olá, meu nome é Felipe Botero</h2>
+  <h3>Hoje estou cursando Análise e desenvolvimento de sistemas</h3>
 
 <h3>Hard Skill</h3>
+  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -12,11 +14,11 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  
-        
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">        
 </p>
+  
 <h3>Learning</h3>
+  
 <p>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
@@ -24,7 +26,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 </p>
-
+</div >
 
 
 
