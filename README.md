@@ -1,6 +1,7 @@
 <div align='center'>
 <h2>Olá, eu sou Felipe Botero</h2>
   <h3>Hoje estou cursando Análise e desenvolvimento de sistemas</h3>
+  <h4><img src="https://w7.pngwing.com/pngs/907/886/png-transparent-magnifying-glasses-illustration-magnifying-glass-icon-magnifier-cartoon-glasses-magnifier-thumbnail.png"> Venho desenvolvendo projetos para meu portifólio em busca da minha primeira oportunidade como desenvolvedor.</h4>
 
 <h3>Hard Skill</h3>
   
