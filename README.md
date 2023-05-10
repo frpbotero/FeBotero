@@ -1,7 +1,5 @@
-<h1>Felipe Botero</h1>
-
 <div align='center'>
-<h2>Olá, meu nome é Felipe Botero</h2>
+<h2>Olá, eu sou Felipe Botero</h2>
   <h3>Hoje estou cursando Análise e desenvolvimento de sistemas</h3>
 
 <h3>Hard Skill</h3>
